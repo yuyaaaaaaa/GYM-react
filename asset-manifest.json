@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/GYM-react/static/css/main.0f39c346.chunk.css",
-    "main.js": "/GYM-react/static/js/main.6fc02e59.chunk.js",
-    "main.js.map": "/GYM-react/static/js/main.6fc02e59.chunk.js.map",
+    "main.js": "/GYM-react/static/js/main.e66b6062.chunk.js",
+    "main.js.map": "/GYM-react/static/js/main.e66b6062.chunk.js.map",
     "runtime-main.js": "/GYM-react/static/js/runtime-main.b95984e3.js",
     "runtime-main.js.map": "/GYM-react/static/js/runtime-main.b95984e3.js.map",
     "static/js/2.18997e32.chunk.js": "/GYM-react/static/js/2.18997e32.chunk.js",
@@ -42,6 +42,6 @@
     "static/js/runtime-main.b95984e3.js",
     "static/js/2.18997e32.chunk.js",
     "static/css/main.0f39c346.chunk.css",
-    "static/js/main.6fc02e59.chunk.js"
+    "static/js/main.e66b6062.chunk.js"
   ]
 }
